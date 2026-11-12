@@ -1,0 +1,615 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-12T16:17:29+00:00",
+  "title": "Design System: La Madrina · Cabañas de altura",
+  "extensions": {
+    "colorMeta": {
+      "sheet": {
+        "role": "neutral",
+        "displayName": "Survey Sheet",
+        "canonical": "#f4f3ee",
+        "oklch": "oklch(96.4% 0.007 97)",
+        "tonalRamp": [
+          "#0c0b08",
+          "#262521",
+          "#43423e",
+          "#62615d",
+          "#83827e",
+          "#a6a5a0",
+          "#cac9c4",
+          "#efeeea"
+        ]
+      },
+      "sheet-2": {
+        "role": "neutral",
+        "displayName": "Plate Paper",
+        "canonical": "#eceae1",
+        "oklch": "oklch(93.6% 0.012 96)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#262522",
+          "#43423d",
+          "#63615a",
+          "#84827b",
+          "#a6a59f",
+          "#cac9c5",
+          "#efeeec"
+        ]
+      },
+      "sheet-lifted": {
+        "role": "neutral",
+        "displayName": "Bright Sheet",
+        "canonical": "#fbfaf6",
+        "oklch": "oklch(98.5% 0.005 95)",
+        "tonalRamp": [
+          "#0c0b09",
+          "#262522",
+          "#43423f",
+          "#62615e",
+          "#83827f",
+          "#a6a5a1",
+          "#cac9c5",
+          "#efeeea"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Survey Ink",
+        "canonical": "#1b241e",
+        "oklch": "oklch(24.9% 0.017 156)",
+        "tonalRamp": [
+          "#0a0c0a",
+          "#222623",
+          "#3d443f",
+          "#5b645e",
+          "#7b857e",
+          "#9fa7a2",
+          "#c5cbc7",
+          "#ecefed"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Grey Ink",
+        "canonical": "#4a5349",
+        "oklch": "oklch(43.1% 0.020 142)",
+        "tonalRamp": [
+          "#0a0c0a",
+          "#222622",
+          "#3e443d",
+          "#5c645b",
+          "#7c857b",
+          "#a0a79f",
+          "#c6cbc5",
+          "#ecefec"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#cfccbf",
+        "oklch": "oklch(84.4% 0.018 96)",
+        "tonalRamp": [
+          "#0c0b09",
+          "#262520",
+          "#44423b",
+          "#646157",
+          "#858278",
+          "#a7a59d",
+          "#cbc9c3",
+          "#efeeeb"
+        ]
+      },
+      "valley": {
+        "role": "secondary",
+        "displayName": "Valley Green",
+        "canonical": "#2f4a35",
+        "oklch": "oklch(38.1% 0.049 151)",
+        "tonalRamp": [
+          "#070d08",
+          "#1d281f",
+          "#354739",
+          "#4f6954",
+          "#708a75",
+          "#97ab9a",
+          "#bfcec1",
+          "#e8f1ea"
+        ]
+      },
+      "valley-deep": {
+        "role": "secondary",
+        "displayName": "Valley Floor",
+        "canonical": "#233a29",
+        "oklch": "oklch(32.4% 0.042 152)",
+        "tonalRamp": [
+          "#080d09",
+          "#1e2820",
+          "#37473a",
+          "#526857",
+          "#728977",
+          "#98ab9c",
+          "#c0cdc3",
+          "#e9f1eb"
+        ]
+      },
+      "valley-ink": {
+        "role": "secondary",
+        "displayName": "Valley Paper",
+        "canonical": "#eef0e6",
+        "oklch": "oklch(95.1% 0.013 116)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#252522",
+          "#42433d",
+          "#61625b",
+          "#82837b",
+          "#a4a69f",
+          "#c9cac5",
+          "#eeefec"
+        ]
+      },
+      "valley-ink-2": {
+        "role": "secondary",
+        "displayName": "Valley Mist",
+        "canonical": "#c4cdbd",
+        "oklch": "oklch(83.7% 0.024 131)",
+        "tonalRamp": [
+          "#0a0c09",
+          "#232620",
+          "#3f443b",
+          "#5d6457",
+          "#7e8578",
+          "#a1a79d",
+          "#c6cbc3",
+          "#edefeb"
+        ]
+      },
+      "ochre": {
+        "role": "tertiary",
+        "displayName": "Highland Ochre",
+        "canonical": "#c9b98f",
+        "oklch": "oklch(78.9% 0.059 90)",
+        "tonalRamp": [
+          "#0e0b04",
+          "#2a2415",
+          "#4a4128",
+          "#6d603e",
+          "#8f815e",
+          "#afa488",
+          "#d0c9b5",
+          "#f3eee3"
+        ]
+      },
+      "ochre-ink": {
+        "role": "tertiary",
+        "displayName": "Ochre Ink",
+        "canonical": "#2a2416",
+        "oklch": "oklch(26.3% 0.026 87)",
+        "tonalRamp": [
+          "#0c0b08",
+          "#28251e",
+          "#464237",
+          "#676153",
+          "#888273",
+          "#aaa599",
+          "#ccc9c0",
+          "#f0eee9"
+        ]
+      },
+      "ochre-ink-2": {
+        "role": "tertiary",
+        "displayName": "Ochre Umber",
+        "canonical": "#574b30",
+        "oklch": "oklch(41.8% 0.044 87)",
+        "tonalRamp": [
+          "#0d0b06",
+          "#2a2419",
+          "#49412f",
+          "#6b6047",
+          "#8d8168",
+          "#ada490",
+          "#cfc9ba",
+          "#f2eee6"
+        ]
+      },
+      "sienna": {
+        "role": "tertiary",
+        "displayName": "Contour Sienna",
+        "canonical": "#9a5a2c",
+        "oklch": "oklch(53.2% 0.104 54)",
+        "tonalRamp": [
+          "#140802",
+          "#371e0b",
+          "#5f361a",
+          "#895129",
+          "#ae724b",
+          "#c9997b",
+          "#e4c1ab",
+          "#ffeadd"
+        ]
+      },
+      "water": {
+        "role": "primary",
+        "displayName": "Dique Blue",
+        "canonical": "#2d6f9a",
+        "oklch": "oklch(51.9% 0.095 241)",
+        "tonalRamp": [
+          "#030c15",
+          "#0e2839",
+          "#1d4661",
+          "#2e678d",
+          "#5089b1",
+          "#80abcb",
+          "#afcee5",
+          "#e0f1ff"
+        ]
+      },
+      "water-deep": {
+        "role": "primary",
+        "displayName": "Deep Dique",
+        "canonical": "#1f5577",
+        "oklch": "oklch(43.0% 0.080 240)",
+        "tonalRamp": [
+          "#040c13",
+          "#122736",
+          "#25465c",
+          "#396686",
+          "#5a88a9",
+          "#86aac4",
+          "#b4cde0",
+          "#e2f1fc"
+        ]
+      },
+      "water-ink": {
+        "role": "primary",
+        "displayName": "On Dique White",
+        "canonical": "#ffffff",
+        "oklch": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "water-tint": {
+        "role": "primary",
+        "displayName": "Lake Tint",
+        "canonical": "#b9d3e2",
+        "oklch": "oklch(85.2% 0.035 233)",
+        "tonalRamp": [
+          "#070c0f",
+          "#1d272c",
+          "#36444d",
+          "#506570",
+          "#708692",
+          "#97a8b2",
+          "#bfcbd2",
+          "#e9f0f4"
+        ]
+      },
+      "error": {
+        "role": "error",
+        "displayName": "Brick Error",
+        "canonical": "#a3341f",
+        "oklch": "oklch(48.6% 0.150 33)",
+        "tonalRamp": [
+          "#190402",
+          "#41140c",
+          "#6e281a",
+          "#9f3d2a",
+          "#c6604b",
+          "#de8d7b",
+          "#f4b9ab",
+          "#ffe5dd"
+        ]
+      },
+      "error-ink": {
+        "role": "error",
+        "displayName": "Error Ink",
+        "canonical": "#8f2c19",
+        "oklch": "oklch(44.1% 0.137 33)",
+        "tonalRamp": [
+          "#180503",
+          "#3f170f",
+          "#6b2b1f",
+          "#9b4230",
+          "#c06451",
+          "#da8f7f",
+          "#f1baae",
+          "#ffe6df"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Property name in the hero, once."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section titles; condensed variants for Sauco and contact titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Category, sub-feature and cartouche titles."
+      },
+      "figure": {
+        "displayName": "Figure",
+        "purpose": "Guest scores; condensed tabular numerals."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Paragraph under a headline, max 56ch, secondary ink."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running copy, max ~60ch."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Uppercase tracked field labels, legend titles, captions, coordinate ticks."
+      },
+      "place-label": {
+        "displayName": "Place Label",
+        "purpose": "Wide tracked caps for place names on the sheet."
+      },
+      "water-name": {
+        "displayName": "Water Name",
+        "purpose": "Italic, wide; water names on the map only."
+      }
+    },
+    "fontAxes": {
+      "family": "Archivo",
+      "source": "Google Fonts variable",
+      "wdth": "62..125",
+      "wght": "300..800",
+      "italic": "water names only"
+    },
+    "shadows": [
+      {
+        "name": "sheet-lift",
+        "value": "0 1px 2px rgba(27,36,30,0.08), 0 12px 32px -12px rgba(27,36,30,0.28)",
+        "purpose": "A sheet resting on the map or a band: cartouche, photo inset, profile panel, sheet button."
+      },
+      {
+        "name": "contact-lift",
+        "value": "0 1px 0 rgba(255,255,255,0.18) inset, 0 6px 16px -8px rgba(31,85,119,0.7)",
+        "purpose": "Contact buttons at rest."
+      },
+      {
+        "name": "contact-lift-hover",
+        "value": "0 1px 0 rgba(255,255,255,0.18) inset, 0 10px 22px -10px rgba(31,85,119,0.8)",
+        "purpose": "Contact buttons on hover, with a 1px rise."
+      },
+      {
+        "name": "double-neatline",
+        "value": "inset 0 0 0 4px #f4f3ee, inset 0 0 0 5px #cfccbf",
+        "purpose": "Inner hairline frame inside a 1px ink border (hero copy)."
+      },
+      {
+        "name": "field-focus",
+        "value": "0 0 0 3px rgba(45,111,154,0.22)",
+        "purpose": "Input focus ring."
+      },
+      {
+        "name": "drawer",
+        "value": "0 18px 30px -18px rgba(27,36,30,0.4)",
+        "purpose": "Mobile nav drawer under the edge strip."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "The single easing for every transition and reveal."
+      },
+      {
+        "name": "state",
+        "value": "200ms",
+        "purpose": "Button colour, lift and choice state changes."
+      },
+      {
+        "name": "underline-draw",
+        "value": "260ms",
+        "purpose": "Nav underline drawing in from the left."
+      },
+      {
+        "name": "drawer",
+        "value": "320-360ms",
+        "purpose": "Mobile nav clip-path wipe."
+      },
+      {
+        "name": "dock",
+        "value": "380ms",
+        "purpose": "Mobile contact dock slide-in."
+      },
+      {
+        "name": "category-in",
+        "value": "420ms",
+        "purpose": "Cabin category copy fades up 6px."
+      },
+      {
+        "name": "plate-zoom",
+        "value": "900ms",
+        "purpose": "Photo scale to 1.03 on hover."
+      },
+      {
+        "name": "survey-reveal",
+        "value": "2200ms",
+        "purpose": "Hero contour field revealed by an expanding circular clip from the mark."
+      },
+      {
+        "name": "route-ahead",
+        "value": "scroll-linked --p",
+        "purpose": "Route rail and route line drawn one step ahead of scroll progress; km readout 0 to 61.7."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "All durations collapse; terrain and rail show fully drawn."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone-sm",
+        "value": "520px"
+      },
+      {
+        "name": "phone",
+        "value": "820px"
+      },
+      {
+        "name": "tablet",
+        "value": "1024px"
+      },
+      {
+        "name": "nav-compact",
+        "value": "1180px"
+      },
+      {
+        "name": "nav-drawer",
+        "value": "1360px"
+      },
+      {
+        "name": "rail",
+        "value": "1400px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Contact Button",
+      "kind": "button",
+      "refersTo": "button-contact",
+      "description": "The only Dique-blue control; every WhatsApp and contact action.",
+      "html": "<a class=\"ds-btn-contact\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7.9 20A9 9 0 1 0 4 16.1L2 22Z\"/></svg><span>Consultar por WhatsApp</span></a>",
+      "css": ".ds-btn-contact{font-family:var(--font,Archivo,system-ui,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:.6em;min-height:48px;padding:.75rem 1.4rem;border:0;border-radius:2px;background:var(--water,#2d6f9a);color:var(--water-ink,#fff);font-weight:650;font-size:1rem;letter-spacing:.01em;font-variation-settings:'wdth' 96;text-decoration:none;box-shadow:0 1px 0 rgba(255,255,255,.18) inset,0 6px 16px -8px rgba(31,85,119,.7);transition:background-color 200ms cubic-bezier(.16,1,.3,1),transform 200ms cubic-bezier(.16,1,.3,1),box-shadow 200ms cubic-bezier(.16,1,.3,1)}.ds-btn-contact:hover{background:var(--water-deep,#1f5577);transform:translateY(-1px);box-shadow:0 1px 0 rgba(255,255,255,.18) inset,0 10px 22px -10px rgba(31,85,119,.8)}.ds-btn-contact:active{transform:none}.ds-btn-contact:focus-visible{outline:2px solid var(--water,#2d6f9a);outline-offset:3px}"
+    },
+    {
+      "name": "Sheet Button",
+      "kind": "button",
+      "refersTo": "button-sheet",
+      "description": "Secondary action on a sheet lying over the map (directions). Never blue.",
+      "html": "<a class=\"ds-btn-sheet\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 11 22 2l-9 19-2-8Z\"/></svg><span>Cómo llegar</span></a>",
+      "css": ".ds-btn-sheet{font-family:var(--font,Archivo,system-ui,sans-serif);display:inline-flex;align-items:center;gap:.6em;min-height:48px;padding:.75rem 1.4rem;border-radius:2px;background:var(--sheet,#f4f3ee);color:var(--ink,#1b241e);font-weight:650;font-variation-settings:'wdth' 96;text-decoration:none;box-shadow:0 1px 2px rgba(27,36,30,.08),0 12px 32px -12px rgba(27,36,30,.28);transition:background-color 200ms cubic-bezier(.16,1,.3,1),transform 200ms cubic-bezier(.16,1,.3,1)}.ds-btn-sheet:hover{background:#fff;transform:translateY(-1px)}.ds-btn-sheet:focus-visible{outline:2px solid var(--water,#2d6f9a);outline-offset:3px}"
+    },
+    {
+      "name": "Field",
+      "kind": "input",
+      "refersTo": "field-input",
+      "description": "Cartouche form field with an uppercase tracked label.",
+      "html": "<label class=\"ds-field\"><span class=\"ds-field__label\">Llegada</span><input type=\"date\"></label>",
+      "css": ".ds-field{font-family:var(--font,Archivo,system-ui,sans-serif);display:grid;gap:.3rem;max-width:220px}.ds-field__label{font-size:.72rem;font-weight:650;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2,#4a5349)}.ds-field input{font:inherit;min-height:46px;padding:.5rem .55rem;background:#fff;border:1px solid #a9a698;border-radius:2px;font-size:.95rem;font-variant-numeric:tabular-nums;transition:border-color 160ms,box-shadow 160ms}.ds-field input:hover{border-color:var(--ink-2,#4a5349)}.ds-field input:focus{outline:none;border-color:var(--water,#2d6f9a);box-shadow:0 0 0 3px rgba(45,111,154,.22)}.ds-field input[aria-invalid=true]{border-color:#a3341f;box-shadow:0 0 0 3px rgba(163,52,31,.15)}"
+    },
+    {
+      "name": "Edge Strip Nav",
+      "kind": "nav",
+      "refersTo": "lang-toggle",
+      "description": "Sticky sheet-edge bar: brand mark, links with a sienna draw-in underline, ES/EN switch.",
+      "html": "<nav class=\"ds-edge\"><a class=\"ds-edge__brand\" href=\"#\"><svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\"><path d=\"M12 3 21 19H3Z\" fill=\"none\" stroke=\"#9a5a2c\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>La Madrina</a><a class=\"ds-edge__link is-current\" href=\"#\">Cabañas</a><a class=\"ds-edge__link\" href=\"#\">Opiniones</a><span class=\"ds-lang\"><button aria-pressed=\"true\">ES</button><button aria-pressed=\"false\">EN</button></span></nav>",
+      "css": ".ds-edge{font-family:var(--font,Archivo,system-ui,sans-serif);display:flex;align-items:center;gap:1.4rem;height:64px;padding:0 24px;background:var(--sheet,#f4f3ee);border-bottom:1px solid var(--rule,#cfccbf);color:var(--ink,#1b241e)}.ds-edge__brand{display:flex;align-items:center;gap:.55rem;font-size:1.2rem;font-weight:750;font-variation-settings:'wdth' 90;text-decoration:none;color:inherit;margin-right:auto}.ds-edge__link{position:relative;font-size:.93rem;font-weight:550;text-decoration:none;color:var(--ink-2,#4a5349);padding:.4rem 0;transition:color 160ms}.ds-edge__link::after{content:'';position:absolute;left:0;right:0;bottom:0;height:1.5px;background:var(--sienna,#9a5a2c);transform:scaleX(0);transform-origin:left;transition:transform 260ms cubic-bezier(.16,1,.3,1)}.ds-edge__link:hover,.ds-edge__link.is-current{color:var(--ink,#1b241e)}.ds-edge__link:hover::after,.ds-edge__link.is-current::after{transform:scaleX(1)}.ds-lang{display:inline-flex;border:1px solid var(--rule,#cfccbf);border-radius:2px}.ds-lang button{font:inherit;background:none;border:0;min-width:40px;min-height:36px;font-size:.8rem;font-weight:650;letter-spacing:.1em;color:var(--ink-2,#4a5349);cursor:pointer}.ds-lang button[aria-pressed=true]{background:var(--ink,#1b241e);color:var(--sheet,#f4f3ee)}.ds-lang button[aria-pressed=false]:hover{background:var(--sheet-2,#eceae1);color:var(--ink,#1b241e)}.ds-edge a:focus-visible,.ds-lang button:focus-visible{outline:2px solid var(--water,#2d6f9a);outline-offset:3px}"
+    },
+    {
+      "name": "Cartouche",
+      "kind": "card",
+      "refersTo": "cartouche",
+      "description": "Title block of the sheet carrying the booking form.",
+      "html": "<div class=\"ds-cartouche\"><div class=\"ds-cartouche__head\"><h3>Consultá disponibilidad</h3><p>Te respondemos por WhatsApp con la tarifa.</p></div><a class=\"ds-cartouche__go\" href=\"#\">Consultar por WhatsApp</a><dl class=\"ds-cartouche__foot\"><div><dt>Lugar</dt><dd>RP 307, km 61,7</dd></div><div><dt>Check-in</dt><dd>14:00</dd></div></dl></div>",
+      "css": ".ds-cartouche{font-family:var(--font,Archivo,system-ui,sans-serif);max-width:380px;background:var(--sheet,#f4f3ee);color:var(--ink,#1b241e);border:1.5px solid var(--ink,#1b241e);box-shadow:0 1px 2px rgba(27,36,30,.08),0 12px 32px -12px rgba(27,36,30,.28);padding:1.25rem 1.25rem 0}.ds-cartouche__head{padding-bottom:.9rem;border-bottom:1px solid var(--ink,#1b241e);margin-bottom:1rem}.ds-cartouche h3{margin:0 0 .25rem;font-size:1.35rem;font-weight:750;font-variation-settings:'wdth' 85;letter-spacing:-.01em}.ds-cartouche p{margin:0;font-size:.9rem;line-height:1.4;color:var(--ink-2,#4a5349)}.ds-cartouche__go{display:flex;justify-content:center;align-items:center;min-height:48px;border-radius:2px;background:var(--water,#2d6f9a);color:#fff;font-weight:650;text-decoration:none;transition:background-color 200ms cubic-bezier(.16,1,.3,1)}.ds-cartouche__go:hover{background:var(--water-deep,#1f5577)}.ds-cartouche__go:focus-visible{outline:2px solid var(--water,#2d6f9a);outline-offset:3px}.ds-cartouche__foot{display:grid;grid-template-columns:1fr 1fr;gap:.5rem 1rem;margin:1rem -1.25rem 0;padding:.6rem 1.25rem;border-top:1px solid var(--ink,#1b241e);font-size:.78rem;line-height:1.35}.ds-cartouche__foot dt{font-size:.72rem;font-weight:650;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2,#4a5349)}.ds-cartouche__foot dd{margin:0;font-weight:550}"
+    },
+    {
+      "name": "Legend",
+      "kind": "custom",
+      "refersTo": "legend",
+      "description": "Amenities as a map legend of drawn symbols, defined once.",
+      "html": "<div class=\"ds-legend\"><h4>En cada cabaña</h4><ul><li><svg viewBox=\"0 0 24 24\"><path d=\"M5 12.55a11 11 0 0 1 14.08 0M8.53 16.11a6 6 0 0 1 6.95 0M12 20h.01\"/></svg>Wifi</li><li><svg viewBox=\"0 0 24 24\"><path d=\"M3 9h18v10H3zM8 9V5h8v4\"/></svg>Cocina completa</li></ul></div>",
+      "css": ".ds-legend{font-family:var(--font,Archivo,system-ui,sans-serif);max-width:360px;background:var(--sheet-lifted,#fbfaf6);border:1.5px solid var(--ink,#1b241e);padding:1.5rem;color:var(--ink,#1b241e)}.ds-legend h4{margin:0 0 1rem;padding-bottom:.8rem;border-bottom:1px solid var(--rule,#cfccbf);font-size:.8rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase}.ds-legend ul{list-style:none;margin:0;padding:0}.ds-legend li{display:grid;grid-template-columns:40px 1fr;align-items:center;gap:.9rem;padding:.55rem 0;border-bottom:1px dotted var(--rule,#cfccbf)}.ds-legend li:last-child{border-bottom:0}.ds-legend svg{width:40px;height:32px;padding:5px 9px;box-sizing:border-box;border:1px solid var(--ink,#1b241e);background:var(--sheet,#f4f3ee);fill:none;stroke:var(--valley,#2f4a35);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}"
+    },
+    {
+      "name": "Contour Plate",
+      "kind": "custom",
+      "refersTo": "plate-empty",
+      "description": "Stand-in for a missing photograph: a contour field plus the intended caption.",
+      "html": "<figure class=\"ds-plate\"><svg viewBox=\"0 0 300 200\" preserveAspectRatio=\"none\"><path d=\"M-10 150C60 120 110 170 180 130S280 90 310 110\"/><path d=\"M-10 120C50 95 120 140 175 100S270 60 310 80\"/><path d=\"M-10 90C60 70 110 105 170 72S265 35 310 50\"/><path d=\"M-10 60C55 45 115 70 165 45S260 10 310 22\"/></svg><figcaption>Terraza con vista al dique</figcaption></figure>",
+      "css": ".ds-plate{font-family:var(--font,Archivo,system-ui,sans-serif);position:relative;margin:0;width:320px;aspect-ratio:3/2;display:flex;align-items:flex-end;overflow:hidden;background:var(--sheet-2,#eceae1);border:1px solid var(--rule,#cfccbf)}.ds-plate svg{position:absolute;inset:0;width:100%;height:100%}.ds-plate path{fill:none;stroke:var(--sienna,#9a5a2c);stroke-width:1;opacity:.45;vector-effect:non-scaling-stroke}.ds-plate figcaption{position:relative;margin:.9rem;padding:.35rem .6rem;background:var(--sheet,#f4f3ee);border:1px solid var(--rule,#cfccbf);font-size:.74rem;font-weight:650;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2,#4a5349)}"
+    },
+    {
+      "name": "Cabin Choice",
+      "kind": "chip",
+      "refersTo": "choice-selected",
+      "description": "Radio card on the valley band; selection sets a solid trig point.",
+      "html": "<div class=\"ds-choices\"><label class=\"ds-choice\"><input type=\"radio\" name=\"ds-cat\" checked><span><svg viewBox=\"0 0 24 24\"><path d=\"M12 3 21 19H3Z\"/></svg><b>2–4</b><i>Pareja o familia chica</i></span></label><label class=\"ds-choice\"><input type=\"radio\" name=\"ds-cat\"><span><svg viewBox=\"0 0 24 24\"><path d=\"M12 3 21 19H3Z\"/></svg><b>4–6</b><i>Familia</i></span></label></div>",
+      "css": ".ds-choices{font-family:var(--font,Archivo,system-ui,sans-serif);display:grid;gap:10px;padding:16px;background:var(--valley,#2f4a35);color:var(--valley-ink,#eef0e6);max-width:360px}.ds-choice{display:block;cursor:pointer}.ds-choice input{position:absolute;opacity:0}.ds-choice span{display:grid;grid-template-columns:26px auto 1fr;align-items:center;gap:.9rem;padding:.9rem 1.1rem;border:1px solid #5a775c;border-radius:2px;transition:background-color 200ms,border-color 200ms}.ds-choice:hover span{border-color:var(--valley-ink-2,#c4cdbd);background:rgba(238,240,230,.05)}.ds-choice svg{width:24px;height:24px}.ds-choice path{fill:none;stroke:var(--valley-ink-2,#c4cdbd);stroke-width:1.6;stroke-linejoin:round;transition:fill 220ms,stroke 220ms}.ds-choice b{font-size:1.9rem;font-weight:750;font-variation-settings:'wdth' 75;line-height:1;font-variant-numeric:tabular-nums}.ds-choice i{font-style:normal;font-size:.95rem;color:var(--valley-ink-2,#c4cdbd)}.ds-choice input:checked+span{background:var(--sheet,#f4f3ee);color:var(--ink,#1b241e);border-color:var(--sheet,#f4f3ee)}.ds-choice input:checked+span i{color:var(--ink-2,#4a5349)}.ds-choice input:checked+span path{fill:var(--ink,#1b241e);stroke:var(--ink,#1b241e)}.ds-choice input:focus-visible+span{outline:2px solid var(--ochre,#c9b98f);outline-offset:3px}"
+    },
+    {
+      "name": "Route Rail",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "RP 307 dashed route down the margin with a riding kilometre chip (1400px and wider).",
+      "html": "<div class=\"ds-rail\"><span class=\"ds-rail__label\">RP 307</span><svg viewBox=\"0 0 40 300\" preserveAspectRatio=\"none\"><path d=\"M20 0C12 40 28 80 20 120S12 200 20 240 28 280 20 300\"/></svg><span class=\"ds-rail__km\">km 38,4</span></div>",
+      "css": ".ds-rail{font-family:var(--font,Archivo,system-ui,sans-serif);position:relative;width:120px;height:300px;margin:28px auto 0}.ds-rail svg{position:absolute;left:40px;width:40px;height:100%;overflow:visible}.ds-rail path{fill:none;stroke:var(--sienna,#9a5a2c);stroke-width:2.4;stroke-dasharray:9 5;vector-effect:non-scaling-stroke}.ds-rail__label,.ds-rail__km{position:absolute;left:60px;font-size:.72rem;font-weight:650;letter-spacing:.12em;white-space:nowrap;font-variant-numeric:tabular-nums;color:var(--sienna,#9a5a2c);background:var(--sheet,#f4f3ee);padding:2px 4px}.ds-rail__label{top:-22px;transform:translateX(-50%)}.ds-rail__km{top:62%;transform:translate(-12px,-50%);border:1px solid var(--sienna,#9a5a2c)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Carta de altura",
+    "overview": "The site is a topographic survey sheet of the Tafí valley. The page opens on the sheet itself: a contour field drawn live in contour sienna, the dique as a blue body with an italic water name, La Madrina's trig-point mark with coordinates and a leader line, all inside a double neatline with coordinate ticks. Scrolling descends the sheet. Every section is a hypsometric band: survey paper for reading and reference, valley green for choosing a cabin, highland ochre for guest proof. The route RP 307 is drawn down the margin ahead of the scroll, counting kilometres to 61.7.\n\nThe character is cartographic, not rustic. Hairline frames instead of cards, a title-block cartouche instead of a floating booking bar, a map legend of drawn symbols instead of an amenity grid, contour plates where photographs are not yet supplied. One family, Archivo, does all the talking by moving along its width axis: condensed for names and figures, wide and tracked for place labels, italic only for water. Colour is law, not decoration: Dique blue appears where there is water and where the visitor makes contact.\n\nThe density is that of a well-set map sheet: generous bands (4.5–8rem vertical), compact labelled detail inside them, and every reading surface on clean sheet paper.",
+    "keyCharacteristics": [
+      "Survey-paper ground with hypsometric band tints that own whole sections.",
+      "Dique blue reserved for water and the contact action.",
+      "Archivo only; roles split by the `wdth` axis, italic reserved for water names.",
+      "Hairline neatlines, cartouche title block, map legend, gazetteer, strip map.",
+      "Contour plates stand in for missing photographs; they never fake one.",
+      "The RP 307 route rail draws ahead of the scroll."
+    ],
+    "rules": [
+      {
+        "name": "The Dique Law",
+        "body": "Dique blue marks water and the contact action, and nothing else; focus rings on paper may borrow it because they lead to the action. Secondary actions (directions, reviews) use the sheet button or a sienna-underlined link, never blue.",
+        "section": "colors"
+      },
+      {
+        "name": "The Band Owns the Section Rule",
+        "body": "A hypsometric tint is a full-width section ground, never a tag or accent chip. Inside a coloured band, reading copy that needs long attention sits on a sheet panel.",
+        "section": "colors"
+      },
+      {
+        "name": "The Italic Is Water Rule",
+        "body": "Italic appears only on water names. No italic emphasis, no italic quotes; the gazetteer explicitly resets to normal style.",
+        "section": "typography"
+      },
+      {
+        "name": "The Width Axis Rule",
+        "body": "Hierarchy moves along `wdth`: names and figures condense (70–90), body sits at 100, place labels widen (110–125). Don't introduce a second family to get contrast.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper On Paper Rule",
+        "body": "Only a sheet lying over the map gets the sheet lift. Panels inside a band stay flat behind a hairline.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do give every section a full-width ground: survey sheet, valley green or highland ochre.",
+      "Do use Dique blue (#2d6f9a) only for water on the map and for contact actions, with deep Dique (#1f5577) on hover.",
+      "Do set every coordinate, distance, score and kilometre in tabular Archivo figures.",
+      "Do carry hierarchy on Archivo's width axis: condensed for names and figures, wide and tracked for place labels.",
+      "Do frame with hairlines (1px ink, 1.5px for title blocks and legends) and keep corners at 2px or square.",
+      "Do show a contour plate with its caption when a photograph is missing.",
+      "Do put long reading copy on sheet panels, even inside coloured bands."
+    ],
+    "donts": [
+      "Don't use Dique blue for secondary links, decoration, icons or section grounds.",
+      "Don't set anything in italic except water names.",
+      "Don't add a second typeface; Archivo's axes cover display, labels and figures.",
+      "Don't add amenity icons outside the legend; lists elsewhere use triangle bullets.",
+      "Don't fill a missing photo with a stock or generated image; use a contour plate.",
+      "Don't add shadows to panels inside a band; only a sheet resting on the map lifts.",
+      "Don't round frames or panels beyond the 2px control radius."
+    ]
+  }
+}
